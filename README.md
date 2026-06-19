@@ -36,7 +36,7 @@ Al finalizar el curso, los estudiantes seran capaces de:
 | 2 | Variables, tipos de datos, operadores y expresiones | 10 min | [Ver video](https://youtu.be/cJQrtUuWymM) | [Abrir practica](https://onlinegdb.com/wPovfhLQD) |
 | 3 | Decisiones y repeticiones con `if`, `else`, `for` y `while` | 10 min | [Ver video](https://youtu.be/-YB9Emb4VJ4) | [Abrir practica](https://onlinegdb.com/BEhIggvTa) |
 | 4 | Metodos, parametros y entrada por consola | 10 min | [Ver video](https://www.youtube.com/watch?v=XiQn77wKFh8) | [Abrir practica](https://onlinegdb.com/oSRhkMKDw) |
-| 5 | Introduccion a POO: clases, objetos, constructores y encapsulacion | 12 min | [Ver video](https://youtu.be/JZXdbQKevdo) | [Abrir practica](https://replit.com/languages/java10) |
+| 5 | Introduccion a POO: clases, objetos, constructores y encapsulacion | 12 min | [Ver video](https://youtu.be/JZXdbQKevdo) | [Abrir practica](https://onlinegdb.com/rrnDl_Nj3C) |
 | 6 | Proyecto final: registro basico de estudiantes | 10 min | [Ver video](https://youtu.be/tQNtfhmH52U) | [Abrir practica](https://onlinegdb.com/teFomQ7Um) |
 
 ## Leccion 1: Introduccion a la programacion y Java

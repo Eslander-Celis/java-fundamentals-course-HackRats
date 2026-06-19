@@ -164,7 +164,7 @@ El repositorio incluye:
 **Universidad:** Universidad Peruana de Ciencias Aplicadas  
 **Carrera:** Ingenieria de Software  
 **Curso:** 1ASI0729 Desarrollo de Aplicaciones Open Source  
-**Periodo academico:** 202520  
+**Periodo academico:** 202610  
 **NRC:** 10155  
 **Nombre del equipo:** HackRats  
 **Fecha de entrega:** 18/06/2026  

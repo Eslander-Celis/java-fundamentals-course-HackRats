@@ -140,7 +140,7 @@ La sexta leccion integra los contenidos del curso mediante un programa basico de
 | --- | --- | --- |
 | 1 | Primer programa en Java | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
 | 2 | Ficha personal y promedio | [OnlineGDB](https://onlinegdb.com/wPovfhLQD) |
-| 3 | Tabla de multiplicar | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
+| 3 | Tabla de multiplicar | [OnlineGDB](https://onlinegdb.com/BEhIggvTa) |
 | 4 | Metodo `presentarse` | [OnlineGDB](https://onlinegdb.com/buvZPwQ04) |
 | 5 | Clase `Mascota` | [OnlineGDB](https://onlinegdb.com/rrnDl_Nj3C) |
 | 6 | Registro de estudiantes | [OnlineGDB](https://onlinegdb.com/teFomQ7Um) |

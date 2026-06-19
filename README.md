@@ -32,7 +32,7 @@ Al finalizar el curso, los estudiantes seran capaces de:
 
 | Leccion | Tema | Duracion estimada | Video | Practica en linea |
 | --- | --- | ---: | --- | --- |
-| 1 | Introduccion a la programacion y primer programa en Java | 8 min | [Ver video](https://youtu.be/pO0TLqPX7OI) | [Abrir practica](https://www.jdoodle.com/online-java-compiler/) |
+| 1 | Introduccion a la programacion y primer programa en Java | 8 min | [Ver video](https://youtu.be/pO0TLqPX7OI) | [Abrir practica](https://onlinegdb.com/3E-H_CjeG) |
 | 2 | Variables, tipos de datos, operadores y expresiones | 10 min | [Ver video](https://youtu.be/cJQrtUuWymM) | [Abrir practica](https://onlinegdb.com/wPovfhLQD) |
 | 3 | Decisiones y repeticiones con `if`, `else`, `for` y `while` | 10 min | [Ver video](https://youtu.be/-YB9Emb4VJ4) | [Abrir practica](https://onlinegdb.com/BEhIggvTa) |
 | 4 | Metodos, parametros y entrada por consola | 10 min | [Ver video](https://www.youtube.com/watch?v=XiQn77wKFh8) | [Abrir practica](https://onlinegdb.com/oSRhkMKDw) |
@@ -138,7 +138,7 @@ La sexta leccion integra los contenidos del curso mediante un programa basico de
 
 | Leccion | Actividad | Herramienta |
 | --- | --- | --- |
-| 1 | Primer programa en Java | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
+| 1 | Primer programa en Java | [OnlineGDB](https://onlinegdb.com/3E-H_CjeG) |
 | 2 | Ficha personal y promedio | [OnlineGDB](https://onlinegdb.com/wPovfhLQD) |
 | 3 | Tabla de multiplicar | [OnlineGDB](https://onlinegdb.com/BEhIggvTa) |
 | 4 | Metodo `presentarse` | [OnlineGDB](https://onlinegdb.com/buvZPwQ04) |

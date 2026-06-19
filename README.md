@@ -33,7 +33,7 @@ Al finalizar el curso, los estudiantes seran capaces de:
 | Leccion | Tema | Duracion estimada | Video | Practica en linea |
 | --- | --- | ---: | --- | --- |
 | 1 | Introduccion a la programacion y primer programa en Java | 8 min | [Ver video](https://youtu.be/pO0TLqPX7OI) | [Abrir practica](https://www.jdoodle.com/online-java-compiler/) |
-| 2 | Variables, tipos de datos, operadores y expresiones | 10 min | [Ver video](https://youtu.be/cJQrtUuWymM) | [Abrir practica](https://onlinegdb.com/_7LSDe6cQ) |
+| 2 | Variables, tipos de datos, operadores y expresiones | 10 min | [Ver video](https://youtu.be/cJQrtUuWymM) | [Abrir practica](https://onlinegdb.com/wPovfhLQD) |
 | 3 | Decisiones y repeticiones con `if`, `else`, `for` y `while` | 10 min | [Ver video](https://youtu.be/-YB9Emb4VJ4) | [Abrir practica](https://onlinegdb.com/BEhIggvTa) |
 | 4 | Metodos, parametros y entrada por consola | 10 min | [Ver video](https://www.youtube.com/watch?v=XiQn77wKFh8) | [Abrir practica](https://onlinegdb.com/oSRhkMKDw) |
 | 5 | Introduccion a POO: clases, objetos, constructores y encapsulacion | 12 min | [Ver video](https://youtu.be/JZXdbQKevdo) | [Abrir practica](https://replit.com/languages/java10) |
